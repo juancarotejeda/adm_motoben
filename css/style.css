@@ -673,6 +673,8 @@ ul.sign li a i {
 
 .about_img figure img {
      width: 100%;
+     width: 100%;
+     float: right;
 }
 
 .about_box {
