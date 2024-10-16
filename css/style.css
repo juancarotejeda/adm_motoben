@@ -583,6 +583,12 @@ ul.sign li a i {
 }
 
 
+.ban_img figure img{
+    width: 30vw;
+    height: 100vh;
+}
+
+
 /** end banner section **/
 
 .titlepage {
